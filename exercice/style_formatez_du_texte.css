@@ -58,14 +58,45 @@ p {
     font-size: 12px;
 
     font-style: italic;
-    margin-bottom: 20;
+    margin-bottom: 20px;
     margin-top: 10px
 }
 
 
 .soustitre {
+    color: black;
     text-decoration: underline;
     font-size: 13px;
+
 }
 
+.apetitpara {
+
+
+    text-indent: 20px;
+    margin-bottom: 20px;
+    margin-top: 10px
+}
+
+
 .petitpara {}
+
+.tetra {
+
+    font-style: italic;
+    text-indent: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px
+}
+
+
+
+.derpara {
+
+    font-family: 'Courier New';
+    font-size: 12px;
+    text-align: justify;
+    color: #43b0f8;
+    margin-bottom: 20px;
+    margin-top: 10px
+}
